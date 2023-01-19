@@ -1,7 +1,5 @@
-# SnipOS 7 Beta
+# SnipOS 7 Beta v0.66 (SnipOS Build: 6600)
 Welcome to SnipOS 7 Blue Ridge.
-
-Version: Build 7000
 
 SnipOS is an operating system simulator by Hyposyn Software. Remember, this is an operating system simulator, and is not to be compared to something like macOS Ventura, or Windows 11.
 
